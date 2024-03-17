@@ -1,0 +1,18 @@
+
+.bestdeal {
+    margin-top: 5%;
+}
+
+  .bestdeal .tabs-content ul.nav-tabs {
+    margin-top: 0px;
+    justify-content: center;
+  }
+  .bestdeal .info-table {
+    margin-bottom: 45px;
+  }
+  .bestdeal .tab-content img {
+    padding: 0px;
+  }
+  .bestdeal .tabs-content h4 {
+    margin-top: 45px;
+  }

@@ -1,0 +1,30 @@
+
+
+.mynav a{
+    margin-left: 70px;
+    text-decoration: none;
+    color: #1e1e1e;
+    font-weight: 500;
+} 
+
+.mynav .nav-link.active  {
+    color: #f35525;
+}
+
+.mynav .nav-link:hover  {
+    color: #f35525;
+}
+
+.mynav .navbar-brand {
+    line-height: 100px;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #1e1e1e;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.mynav .navbar-collapse {
+    flex-grow: 0;
+}
+

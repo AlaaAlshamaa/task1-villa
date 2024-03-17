@@ -1,0 +1,10 @@
+.funfacts {
+    text-align: center;
+    margin-top: 125px;
+}
+
+.funfacts .row{
+    display: flex;
+    flex-wrap: wrap;
+    }
+

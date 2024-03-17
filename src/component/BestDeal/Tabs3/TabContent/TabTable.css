@@ -1,0 +1,31 @@
+.tabTable {
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+    padding: 35px 30px;
+}
+
+.tabTable  ul li {
+    display: block;
+    margin-bottom: 24px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid #eee;
+    text-align: left;
+    font-size: 15px;
+    color: #aaa;
+    font-weight: 400;
+}
+
+.tabTable  ul li span {
+    font-size: 20px;
+    color: #1e1e1e;
+    font-weight: 700;
+    float: right;
+    display: inline-block;
+    
+}
+
+.tabTable ul li.lastchild  {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
